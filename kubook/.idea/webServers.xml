@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52b283a1-2599-4239-b200-cb82d5178d96" name="kubook" url="http://kubook.kodev.kr">
+        <fileTransfer host="kubook.kodev.kr" port="21" rootFolder="/home/dbproject/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
